@@ -8,5 +8,7 @@ int main() {
 	{
 		printf("*");
 	}
+	
+	printf("Github Desktop\n");
 
 }
